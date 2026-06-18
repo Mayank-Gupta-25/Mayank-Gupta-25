@@ -5,12 +5,9 @@
 </p>
 
 <p align="center">
-  CSE Student | AI & DS | Competitive Programmer
+  AI & DS undergrad at IIT Jodhpur  Passionate about Systems Programming, Backend Development and Machine Learning
 </p>
 
-<p align="center">
-  Passionate about Systems Programming, Backend Development and Machine Learning
-</p>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
