@@ -18,20 +18,17 @@
   <a href="https://www.linkedin.com/in/mayank-gupta-9a6a65299/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
+  <br>
+
   <a href="https://leetcode.com/u/Mayank_Gupta_2005/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
+  <br>
 
-  &nbsp;&nbsp;&nbsp;
-  
   <a href="https://codeforces.com/profile/mayank_g_2005">
     <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
+  <br>
 
   <a href="mailto:mkg31122005@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
